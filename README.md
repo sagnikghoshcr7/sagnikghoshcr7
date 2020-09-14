@@ -1,7 +1,10 @@
 <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"></h1>
 <p align="middle">
 <a href="https://www.linkedin.com/in/sagnik-ghosh-564574199">
-<img src="https://img.shields.io/badge/@sagnikghosh-blue?style=flat&logo=linkedin&labelColor=blue">
+<img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+<a href="mailto:sagnikghoshmandra@gmail.com?subject=Hello%20Sagnik,%20From%20Github">
+<img src="https://img.shields.io/badge/-Gmail-%23db483b?style=flat&logo=Gmail&labelColor=red&logoColor=white">
 </a>
 <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=sagnikghoshcr7.sagnikghoshcr7" alt="Vistor Badge"></a>
 </p>
