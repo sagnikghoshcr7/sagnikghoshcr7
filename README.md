@@ -24,10 +24,14 @@
 <br />
 <br />
 
+<div>
+<br />
+<br />
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sagnikghoshcr7&hide=contribs,prs&theme=onedark" alt="sagnikghoshcr7"/> 
 <img align="left" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikghoshcr7&hide=css&theme=nord" alt="sagnikghoshcr7" />
 </p>
+</div>
 
 <br />
 <br />
