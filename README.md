@@ -6,7 +6,9 @@
 <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=sagnikghoshcr7.sagnikghoshcr7" alt="Vistor Badge"></a>
 </p>
 
+<div>
 <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
+</div>
 
 <br />
 <br />
