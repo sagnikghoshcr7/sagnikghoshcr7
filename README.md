@@ -12,6 +12,9 @@
 <a href="https://www.instagram.com/sagnikghoshcr7">
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white">
 </a>
+<a href="https://twitter.com/Sagnikghoshcr7">
+<img src="https://img.shields.io/badge/-Twitter-%231a91da?style=flat&logo=Twitter&logoColor=white">
+</a>
 <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=sagnikghoshcr7.sagnikghoshcr7" alt="Vistor Badge"></a>
 </p>
 
