@@ -40,7 +40,7 @@
 
 <div>
 <a href="https://leetcode.com/sagnikghoshmandra/">
-  <img align="left" alt="Sagnik's Leetcode" height="30px" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Sagnik's Leetcode" height="40px" width="40px" src="https://github.com/sagnikghoshcr7/images/blob/master/LeetCode_logo.png" />
 </a>
 </div>
 
