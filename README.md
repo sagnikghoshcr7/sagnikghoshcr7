@@ -42,7 +42,7 @@
 <a href="https://leetcode.com/sagnikghoshmandra/">
   <img align="left" alt="Sagnik's Leetcode" height="40px" width="35px" src="https://github.com/sagnikghoshcr7/images/blob/master/LeetCode_logo.png" />
 </a>
-<a href="https://leetcode.com/sagnikghoshmandra/">
+<a href="https://www.hackerrank.com/sagnikghoshmand1/">
   <img align="left" alt="Sagnik's Leetcode" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/HackerRank.jpg" />
 </a>
 </div>
