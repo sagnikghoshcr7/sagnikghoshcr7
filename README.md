@@ -40,7 +40,10 @@
 
 <div>
 <a href="https://leetcode.com/sagnikghoshmandra/">
-  <img align="left" alt="Sagnik's Leetcode" height="40px" width="40px" src="https://github.com/sagnikghoshcr7/images/blob/master/LeetCode_logo.png" />
+  <img align="left" alt="Sagnik's Leetcode" height="40px" width="35px" src="https://github.com/sagnikghoshcr7/images/blob/master/LeetCode_logo.png" />
+</a>
+<a href="https://leetcode.com/sagnikghoshmandra/">
+  <img align="left" alt="Sagnik's Leetcode" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/HackerRank.jpg" />
 </a>
 </div>
 
