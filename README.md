@@ -37,8 +37,12 @@
 <br />
 
 <div>
-<br />
-<br />
+<a href="https://leetcode.com/sagnikghoshmandra/">
+  <img align="left" alt="Sagnik's Leetcode" height="30px" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+</div>
+
+<div>
 <br />
 <br />
 <p align="center">
