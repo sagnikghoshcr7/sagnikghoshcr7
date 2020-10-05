@@ -45,6 +45,9 @@
 <a href="https://www.hackerrank.com/sagnikghoshmand1/">
   <img align="left" alt="Sagnik's Leetcode" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/HackerRank.jpg" />
 </a>
+<a href="https://www.codechef.com/users/sagnikghoshcr7/">
+  <img align="left" alt="Sagnik's Leetcode" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/CodeChef%20Logo.png" />
+</a>
 </div>
 
 <div>
