@@ -51,6 +51,9 @@
 <a href="https://codeforces.com/profile/sagnikghoshcr7/">
   <img align="left" alt="Sagnik's Leetcode" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/CodeForces%20Logo.jpg" />
 </a>
+<a href="https://www.codewars.com/users/sagnikghoshcr7">
+  <img align="left" alt="Sagnik's Leetcode" src="https://www.codewars.com/users/sagnikghoshcr7/badges/large" />
+</a>
 </div>
 
 <div>
