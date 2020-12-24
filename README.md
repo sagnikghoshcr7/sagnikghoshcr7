@@ -19,7 +19,7 @@
 </p>
 
 <div>
-<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
+<img align="right" alt="GIF" height="300px" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/git%20crop.gif"/>
 </div>
 
 <!-- <div>
