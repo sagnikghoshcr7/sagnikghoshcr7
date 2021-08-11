@@ -79,6 +79,14 @@
 </a>
 </div>
 
+<div>
+  <div>
+    <img align="left" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg"/>
+  </div>
+</div>
+
+<br />
+<br />
 <br />
 
 <div>
