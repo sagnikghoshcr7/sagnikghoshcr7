@@ -2,9 +2,7 @@
 <div>
   <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+an+App+Developer;I'm+a+MERN+Developer;I'm+a++Freelancer;I+am+a+Machine+Learning+Enthusiast"/>
 </div>
-
 <br />
-
 <div>
   <p align="middle">
   <a href="https://www.linkedin.com/in/sagnik-ghosh-564574199">
