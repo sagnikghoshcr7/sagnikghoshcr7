@@ -66,7 +66,7 @@
   <img align="left" alt="Sagnik's CSSBattle" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/CSSBattle.png" />
 </a>
 <a href="https://www.codewars.com/users/sagnikghoshcr7">
-  <img align="left" alt="Sagnik's CodeWars" src="https://www.codewars.com/users/sagnikghoshcr7/badges/large" />
+  <img align="left" width="400px" alt="Sagnik's CodeWars" src="https://www.codewars.com/users/sagnikghoshcr7/badges/large" />
 </a>
 </div>
 
