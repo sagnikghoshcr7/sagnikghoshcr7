@@ -103,7 +103,7 @@
 <br />
 <br />
 <p align="center">
-<img align="left" height="230" src="https://github-readme-stats.vercel.app/api?username=sagnikghoshcr7&theme=onedark" alt="sagnikghoshcr7"/> 
+<img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=sagnikghoshcr7&theme=onedark" alt="sagnikghoshcr7"/> 
 <img align="left" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikghoshcr7&hide=css&theme=nord" alt="sagnikghoshcr7" />
 </p>
 </div>
