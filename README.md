@@ -5,13 +5,13 @@
 <br />
 <div>
   <p align="middle">
-  <a href="https://www.linkedin.com/in/sagnik-ghosh-564574199">
+  <a href="https://www.linkedin.com/in/sagnikghoshcr7">
   <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
   </a>
   <a href="mailto:sagnikghoshmandra@gmail.com?subject=Hello%20Sagnik,%20From%20Github">
   <img src="https://img.shields.io/badge/-Gmail-%23db483b?style=flat&logo=Gmail&labelColor=red&logoColor=white">
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100036939404474">
+  <a href="https://www.facebook.com/sagnikghoshcr7">
   <img src="https://img.shields.io/badge/-Facebook-%230d8bf1?style=flat&logo=Facebook&logoColor=white">
   </a>
   <a href="https://www.instagram.com/sagnikghoshcr7">
