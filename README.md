@@ -102,9 +102,11 @@
 <br />
 <br />
 <br />
-<p align="center">
+<!-- <p align="center">
 <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=sagnikghoshcr7&theme=onedark" alt="sagnikghoshcr7"/> 
-<img align="left" height="200" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikghoshcr7&hide=css&theme=nord" alt="sagnikghoshcr7" />
+<img align="left" height="200" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikghoshcr7&hide=css&theme=nord" alt="sagnikghoshcr7" /> -->
+<img align="left" height="200" src="https://readme-stats.clckblog.space/api?username=sagnikghoshcr7&theme=onedark" alt="sagnikghoshcr7"/> 
+<img align="left" height="200" width="230" src="https://readme-stats.clckblog.space/api/top-langs/?username=sagnikghoshcr7&hide=css&theme=nord" alt="sagnikghoshcr7" />
 </p>
 </div>
 
