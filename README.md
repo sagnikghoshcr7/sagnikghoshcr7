@@ -111,6 +111,9 @@
 <!-- <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> -->
 </p>
 </div>
+
+<br />
+
 <div>
   <img align="center" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/BreakLine.gif"/>
 </div>
